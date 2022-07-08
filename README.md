@@ -1,2 +1,0 @@
-# CodeDeployGitHubDemo
-testing repository
